@@ -1,0 +1,30 @@
+{
+    "name": "super-tema",
+    "version": "1.0.0",
+    "description": "Tema desenvolvido para alta performance em resultado de busca orgânica",
+    "main": "filename.php",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Your Name",
+    "license": "GPL",
+    "keywords": [
+        "wordpress",
+        "gruntplugin",
+        "scss",
+        "sass",
+        "css",
+        "compile",
+        "preprocessor",
+        "style"
+    ],
+    "devDependencies": {
+        "grunt": "^1.0.4",
+        "grunt-contrib-cssmin": "^1.0.2",
+        "grunt-contrib-uglify": "^2.0.0",
+        "grunt-contrib-watch": "^1.1.0"
+    },
+    "dependencies": {
+        "jquery": "^3.4.1"
+    }
+}

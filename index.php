@@ -1,0 +1,564 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>JMLima Assessoria Empresarial</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="JMLima Assessoria Empresarial" />
+	<meta name="author" content="Mateus Araújo" />
+
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Simple Line Icons -->
+	<link rel="stylesheet" href="css/simple-line-icons.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Owl Carousel  -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	<!-- Style -->
+	<link rel="stylesheet" href="css/style.css">
+
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+	<header role="banner" id="fh5co-header">
+		<div class="container">
+			<nav class="navbar navbar-default">
+				<div class="navbar-header">
+					<!-- Mobile Toggle Menu Button -->
+					<a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><i></i></a>
+					<a class="navbar-brand" href="index.html">
+						<img src="images/jmlima-logo.png" alt="JMLima - Assessoria Empresarial" class="img-responsive">
+						<span>JMLima - Assessoria Empresarial</span>
+					</a> 
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a href="#" data-nav-section="explore" title="Sobre Nós"><span>Sobre Nós</span></a></li>
+						<li><a href="#" data-nav-section="services" title="Serviços"><span>Serviços</span></a></li>
+						<li><a href="#" data-nav-section="pricing" title="Planos"><span>Planos</span></a></li>						
+						<li><a href="#" data-nav-section="team" title="Nosso Time"><span>Nosso Time</span></a></li>
+						<li><a href="#" data-nav-section="testimony" title="Depoimentos"><span>Depoimentos</span></a></li>
+						<li><a href="#" data-nav-section="faq" title="FAQ"><span>FAQ</span></a></li>
+						<li class="call-to-action"><a href="#" data-nav-section="contact" title="Fale Conosco"><span>Fale Conosco</span></a></li>
+					</ul>
+				</div>
+			</nav>
+	  </div>
+	</header>
+
+	<section id="fh5co-home" data-section="home" style="background-image: url(images/full_image_3.jpg);" data-stellar-background-ratio="0.5">
+		<div class="gradient"></div>
+		<div class="container">
+			<div class="text-wrap">
+				<div class="text-inner">
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2">
+							<p>
+								<img class="logo-bco" src="images/jmlima-logo-bco.png" alt="JMLima - Assessoria Empresarial" class="img-responsive">
+							</p>
+							<h1 class="to-animate">Assessoria Empresarial</h1>
+							<h2 class="to-animate">Descreva em poucas palavras quem são e o que fazem</h2 class="to-animate">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="fh5co-explore" data-section="explore">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 section-heading text-center">
+					<h2>Sobre Nós</h2>
+					<div class="row">
+						<div class="col-md-8 col-md-offset-2 subtext to-animate">
+							<h3>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="fh5co-explore">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-push-5 to-animate-2">
+						<img class="img-responsive" src="images/work_1.png" alt="work">
+					</div>
+					<div class="col-md-4 col-md-pull-8 to-animate-2">
+						<div class="mt">
+							<h3>Sobre a JMLima</h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. </p>
+							<ul class="list-nav">
+								<li><i class="icon-check2"></i>Far far away, behind the word</li>
+								<li><i class="icon-check2"></i>There live the blind texts</li>
+								<li><i class="icon-check2"></i>Separated they live in bookmarksgrove</li>
+								<li><i class="icon-check2"></i>Semantics a large language ocean</li>
+								<li><i class="icon-check2"></i>A small river named Duden</li>
+							</ul>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+
+		<div class="fh5co-explore fh5co-explore-bg-color">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-pull-1 to-animate-3">
+						<img class="img-responsive" src="images/work_1.png" alt="work">
+					</div>
+					<div class="col-md-4 to-animate-3">
+						<div class="mt">
+							<div>
+								<h4><i class="icon-people"></i>MISSÃO</h4>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+							</div>
+							<div>
+								<h4><i class="icon-video2"></i>VISÃO</h4>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+							</div>
+							<div>
+								<h4><i class="icon-shield"></i>VALORES</h4>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="fh5co-services" data-section="services">
+		<div class="fh5co-services">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 section-heading text-center">
+						<h2>Serviços</h2>
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2 subtext">
+								<h3 class="to-animate">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove. </h3>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4">
+						<div class="box-services">
+							<i class="icon-chemistry to-animate-2"></i>
+							<div class="fh5co-post to-animate">
+								<h3>Estratégia Societária</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+							</div>
+						</div>
+
+						<div class="box-services">
+							<i class="icon-energy to-animate-2"></i>
+							<div class="fh5co-post to-animate">
+								<h3>Monitoramento do Capital Circulante</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="box-services">
+							<i class="icon-trophy to-animate-2"></i>
+							<div class="fh5co-post to-animate">
+								<h3>Melhoria Operacional</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+							</div>
+						</div>
+
+						<div class="box-services">
+							<i class="icon-paper-plane to-animate-2"></i>
+							<div class="fh5co-post to-animate">
+								<h3>Renegociação de Passivo</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="box-services">
+							<i class="icon-people to-animate-2"></i>
+							<div class="fh5co-post to-animate">
+								<h3>Recuperação Judicial</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+							</div>
+						</div>
+
+						<div class="box-services">
+							<i class="icon-screen-desktop to-animate-2"></i>
+							<div class="fh5co-post to-animate">
+								<h3>Diagnóstico Econômico Financeiro</h3>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="fh5co-pricing" data-section="pricing">
+		<div class="fh5co-pricing">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 section-heading text-center">
+						<h2>Planos</h2>
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2 subtext">
+								<h3 class="to-animate">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove. </h3>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="pricing">
+						<div class="col-md-3">
+							<div class="price-box to-animate-2">
+								<h2 class="pricing-plan">Starter</h2>
+								<div class="price"><sup class="currency">R$</sup>500<small>/mês</small></div>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+							</div>
+						</div>
+
+						<div class="col-md-3">
+							<div class="price-box to-animate-2">
+								<h2 class="pricing-plan">Basic</h2>
+								<div class="price"><sup class="currency">R$</sup>800<small>/mês</small></div>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+							</div>
+						</div>
+
+						<div class="col-md-3">
+							<div class="price-box to-animate-2 popular">
+								<h2 class="pricing-plan pricing-plan-offer">Pro <span>Best Offer</span></h2>
+								<div class="price"><sup class="currency">R$</sup>1.500<small>/mês</small></div>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+							</div>
+						</div>
+
+						<div class="col-md-3">
+							<div class="price-box to-animate-2">
+								<h2 class="pricing-plan">Unlimited</h2>
+								<div class="price"><sup class="currency">R$</sup>2.000<small>/mês</small></div>
+								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 to-animate">
+						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+					</div>
+				</div>
+
+			</div>
+		</div>
+	</section>
+
+	<div class="getting-started getting-started-1">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 to-animate">
+					<h3>Vamos começar?</h3>
+					<p>Para mais informações sobre como podemos melhorar todo processo de sua empresa entre em contato agora mesmo. Será um imenso prazer!</p>
+				</div>
+				<div class="col-md-6 to-animate-2">
+					<div class="call-to-action text-right">
+						<a href="#fh5co-footer" class="sign-up" title="Clique e Fale Conosco">Entrar em Contato</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<section id="fh5co-team" data-section="team">
+		<div class="fh5co-team">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 section-heading text-center">
+						<h2>Nosso Time</h2>
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2 subtext">
+								<h3 class="to-animate">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove. </h3>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4">
+						<div class="team-box text-center to-animate-2">
+							<div class="user"><img class="img-reponsive" src="images/person4.jpg" alt="Roger Garfield"></div>
+							<h3>Roger Garfield</h3>
+							<span class="position">Co-Founder, Lead Developer</span>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="team-box text-center to-animate-2">
+							<div class="user"><img class="img-reponsive" src="images/person2.jpg" alt="Roger Garfield"></div>
+							<h3>Kevin Steve</h3>
+							<span class="position">Co-Founder, Product Designer</span>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="team-box text-center to-animate-2">
+							<div class="user"><img class="img-reponsive" src="images/person3.jpg" alt="Roger Garfield"></div>
+							<h3>Ross Standford</h3>
+							<span class="position">Full Stack Developer</span>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="fh5co-testimony" data-section="testimony">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 section-heading text-center">
+					<h2>Depoimentos</h2>
+				</div>
+				<div class="col-md-12 to-animate">
+					<div class="wrap-testimony">
+						<div class="owl-carousel-fullwidth">
+							<div class="item">
+								<div class="testimony-slide active text-center">
+									<figure>
+										<img src="images/person2.jpg" alt="user">
+									</figure>
+									<blockquote>
+										<p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."</p>
+									</blockquote>
+									<span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
+								</div>
+							</div>
+							<div class="item">
+								<div class="testimony-slide active text-center">
+									<figure>
+										<img src="images/person3.jpg" alt="user">
+									</figure>
+									<blockquote>
+										<p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."</p>
+									</blockquote>
+									<span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
+								</div>
+							</div>
+							<div class="item">
+								<div class="testimony-slide active text-center">
+									<figure>
+										<img src="images/person2.jpg" alt="user">
+									</figure>
+									<blockquote>
+										<p>"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."</p>
+									</blockquote>
+									<span>John Doe, via <a href="#" class="twitter">Twitter</a></span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="fh5co-faq" data-section="faq">
+		<div class="fh5co-faq">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 section-heading text-center">
+						<h2>Perguntas Frequentes</h2>
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2 subtext">
+								<h3 class="to-animate">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</h3>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-6">
+						<div class="box-faq to-animate-2">
+							<h3>O que é assessoria empresarial?</h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+						<div class="box-faq to-animate-2">
+							<h3>Qual a diferença entre assessoria e consultoria empresarial?</h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+						<div class="box-faq to-animate-2">
+							<h3>Quais as vantagens de contratar uma assessoria empresarial? </h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+					</div>
+
+					<div class="col-md-6">
+						<div class="box-faq to-animate-2">
+							<h3>Preciso de um plano de Marketing?</h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+						<div class="box-faq to-animate-2">
+							<h3>Como avaliar a produtividade?</h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+						<div class="box-faq to-animate-2">
+							<h3>Como reduzir csutos sem prejudicar pagamentos?</h3>
+							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section id="fh5co-trusted" data-section="trusted">
+		<div class="fh5co-trusted">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 section-heading text-center">
+						<h2>Parceiros</h2>
+						<div class="row">
+							<div class="col-md-8 col-md-offset-2 subtext">
+								<h3 class="to-animate">We’re trusted by these popular companies</h3>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					 <div class="col-md-2 col-sm-3 col-xs-6 col-sm-offset-0 col-md-offset-1">
+					 	<div class="partner-logo to-animate-2">
+					 		<img src="images/logo1.png" alt="Partners" class="img-responsive">
+					 	</div>
+					 </div>
+				    <div class="col-md-2 col-sm-3 col-xs-6">
+				    	<div class="partner-logo to-animate-2">
+				    		<img src="images/logo2.png" alt="Partners" class="img-responsive">
+						</div>
+				    </div>
+				    <div class="col-md-2 col-sm-3 col-xs-6">
+				    	<div class="partner-logo to-animate-2">
+				    		<img src="images/logo3.png" alt="Partners" class="img-responsive">
+				    	</div>
+				    </div>
+				    <div class="col-md-2 col-sm-3 col-xs-6">
+				    	<div class="partner-logo to-animate-2">
+				    		<img src="images/logo4.png" alt="Partners" class="img-responsive">
+				    	</div>
+				    </div>
+				    <div class="col-md-2 col-sm-12 col-xs-12">
+				    	<div class="partner-logo to-animate-2">
+				    		<img src="images/logo5.png" alt="Partners" class="img-responsive">
+				    	</div>
+				    </div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<div id="fh5co-footer" role="contentinfo" data-section="contact">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12 section-heading text-center">
+					<h2 class="to-animate fadeIn animated">Fale Conosco</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-4 to-animate">
+					<h3 class="section-title">JMLima</h3>
+					<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics.</p>
+					<p class="copy-right">&copy; 2020 JMLima - Assessoria Empresarial. <br>Todos os Direitos Reservados.
+					</p>
+				</div>
+
+				<div class="col-md-4 to-animate">
+					<h3 class="section-title">Contatos</h3>
+					<ul class="contact-info">
+						<li><i class="icon-phone"></i>(11) 2970-3520</li>
+						<li><i class="icon-envelope"></i><a href="mailto:contato@jmlima.com.br">contato@jmlima.com.br</a></li>
+						<li><i class="icon-map-marker"></i>198 West 21th Street, Suite 721 New York NY 10016</li>
+					</ul>
+					<h3 class="section-title">Siga-nos</h3>
+					<ul class="social-media">
+						<li><a href="#" class="linkedin"><i class="icon-linkedin"></i></a></li>
+						<li><a href="#" class="facebook"><i class="icon-facebook"></i></a></li>
+						<li><a href="#" class="twitter"><i class="icon-twitter"></i></a></li>
+					</ul>
+				</div>
+				<?php require_once(form.php) ?>
+				<div class="col-md-4 to-animate">
+					<h3 class="section-title">Envie um Email!</h3>
+					<form action="<?php $PHP_SELF; ?>" class="contact-form" method="post">
+						<div class="form-group">
+							<input type="name" class="form-control" aria-label="nome" id="nome" name="nome" placeholder="* Nome" required>
+						</div>
+						<div class="form-group">
+							<input type="email" class="form-control" aria-label="email" id="email" name="email" placeholder="* Email" required>
+						</div>
+						<div class="form-group">
+							<textarea class="form-control" id="message" aria-label="mensagem" rows="7" name="mensagem" placeholder="* Mensagem" required></textarea>
+						</div>
+						<div class="form-group">
+							<input type="submit" id="btn-submit" class="btn btn-send-message btn-md" value="Enviar Mensagem">
+						</div>
+					</form>
+					<?php if(isset($msg)){ echo $msg; } ?>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Owl Carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Main JS (Do not remove) -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
+
